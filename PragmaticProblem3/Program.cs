@@ -30,7 +30,7 @@ namespace PragmaticProblem3
                     startIndex = i + 1;
                     sum = 0;
                 }
-            }
+            } 
             
             Console.WriteLine($"Start index is {maxStartIndex}, end index {endIndex} and the sum {maxSum}.");
         }
