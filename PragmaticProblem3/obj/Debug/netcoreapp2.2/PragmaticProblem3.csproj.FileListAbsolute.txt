@@ -1,0 +1,11 @@
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\bin\Debug\netcoreapp2.2\PragmaticProblem3.deps.json
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\bin\Debug\netcoreapp2.2\PragmaticProblem3.runtimeconfig.json
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\bin\Debug\netcoreapp2.2\PragmaticProblem3.runtimeconfig.dev.json
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\bin\Debug\netcoreapp2.2\PragmaticProblem3.dll
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\bin\Debug\netcoreapp2.2\PragmaticProblem3.pdb
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\obj\Debug\netcoreapp2.2\PragmaticProblem3.csprojAssemblyReference.cache
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\obj\Debug\netcoreapp2.2\PragmaticProblem3.csproj.CoreCompileInputs.cache
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\obj\Debug\netcoreapp2.2\PragmaticProblem3.AssemblyInfoInputs.cache
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\obj\Debug\netcoreapp2.2\PragmaticProblem3.AssemblyInfo.cs
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\obj\Debug\netcoreapp2.2\PragmaticProblem3.dll
+C:\Users\Keke\source\repos\Problem3\PragmaticProblem3\obj\Debug\netcoreapp2.2\PragmaticProblem3.pdb
