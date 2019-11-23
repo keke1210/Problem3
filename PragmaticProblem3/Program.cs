@@ -38,7 +38,7 @@ namespace PragmaticProblem3
 
 
         /// <summary>
-        /// Brute Force Solution for the Max Continous vector sum -> Time Complexity O(n^2)
+        /// Brute Force Solution for the max continous vector sum -> Time Complexity O(n^2)
         /// </summary>
         /// <param name="a"></param>
         static void maxSubVectorSumBruteForce(int[] a)
